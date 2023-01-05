@@ -15,6 +15,8 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1xx6Jj6UzzIg1nYy5dzT5XtOYxlPASCKB/view?usp=sharing](https://drive.google.com/file/d/1xx6Jj6UzzIg1nYy5dzT5XtOYxlPASCKB/view?usp=sharing)
 
+- 🏌️‍♂️ My hobbies are playing **Cricket, Badminton, PC and Mobile games**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/alankrit1910" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alankrit1910" height="30" width="40" /></a>
